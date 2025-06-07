@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltq525/ltq525/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ltq525/ltq525/output/github-contribution-grid-snake.svg" />
-        <img alt="github-snake" src="https://raw.githubusercontent.com/ltq525/ltq525/output/github-contribution-grid-snake.svg" />
-    </picture>
-
-</div>
 
 <div>&nbsp;</div>
 
@@ -31,8 +22,10 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltq525) -->
 
-<div align="center" >
 
+
+<div align="center" >
+  <img src="https://count.getloli.com/@ltq525?name=ltq525&theme=rule34">
 
   <!-- GitHub 奖杯🏆 -->
   <img src="https://github-profile-trophy.vercel.app/?username=ltq525&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
@@ -49,6 +42,17 @@ Here are some ideas to get you started:
   <!-- <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ltq525&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ltq525&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
 
+
+</div>
+
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltq525/ltq525/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ltq525/ltq525/output/github-contribution-grid-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/ltq525/ltq525/output/github-contribution-grid-snake.svg" />
+    </picture>
 
 </div>
 
