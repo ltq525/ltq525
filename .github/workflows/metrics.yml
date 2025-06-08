@@ -8,7 +8,10 @@ on:
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   push:
     branches: [ "master" ]
-  
+
+permissions:
+  contents: write
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
