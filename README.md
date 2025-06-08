@@ -56,4 +56,11 @@ Here are some ideas to get you started:
 
 </div>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ltq525/ltq525/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ltq525/ltq525/profile-3d-contrib/profile-gitblock.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/ltq525/ltq525/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
 
+
+<img src="https://cdn.jsdelivr.net/gh/ltq525/ltq525/metrics/base.svg" />
