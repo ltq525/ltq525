@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - name: Checkout output branch
-        uses: actions/checkout@v4
-        with:
-          ref: output
+    #   - name: Checkout output branch
+    #     uses: actions/checkout@v4
+    #     with:
+    #       ref: output
 
       - name: Run generator
         uses: yoshi389111/github-profile-3d-contrib@latest
