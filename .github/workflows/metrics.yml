@@ -6,8 +6,7 @@ on:
   schedule:
     - cron: "0 16 * * *"
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
-  push:
-    branches: [ "master" ]
+  workflow_dispatch:
 
 permissions:
   contents: write

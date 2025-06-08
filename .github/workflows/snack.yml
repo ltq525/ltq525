@@ -2,9 +2,9 @@ name: snake
 
 on:
   schedule:
-    - cron: "0 16 * * *" # 00:01触发
-  push:
-    branches: [ "master" ]
+    - cron: "0 16 * * *" # 00:00触发
+  workflow_dispatch:
+
 jobs:
   generate:
     runs-on: ubuntu-latest
