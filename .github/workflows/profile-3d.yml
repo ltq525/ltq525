@@ -1,7 +1,7 @@
 name: Profile-3D-Contrib
 
 on:
-  schedule: # 16:00 UTC == 00:00CST
+  schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 16 * * *"
   workflow_dispatch:
 
@@ -13,13 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-    #   - name: Checkout output branch
-    #     uses: actions/checkout@v4
-    #     with:
-    #       ref: output
-
-      - name: Run generator
-        uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -30,4 +25,3 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-          
