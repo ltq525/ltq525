@@ -15,6 +15,11 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          
       # 基础信息
       - name: base
         uses: lowlighter/metrics@latest
