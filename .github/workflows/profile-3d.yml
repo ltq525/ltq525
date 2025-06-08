@@ -15,14 +15,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@latest
+        with:
+            target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name ltq525
+          git config user.email 1766445410@qq.com
           git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
+          git commit -m "generated"
+          git push
+          
