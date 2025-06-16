@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div>
+<div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ltq525/ltq525/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ltq525/ltq525/output/github-contribution-grid-snake.svg" />
@@ -56,17 +56,16 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ltq525/ltq525/profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ltq525/ltq525/profile-3d-contrib/profile-gitblock.svg" />
     <img src="https://cdn.jsdelivr.net/gh/ltq525/ltq525/profile-3d-contrib/profile-night-rainbow.svg" />
   </picture>
+  
+  <img src="https://cdn.jsdelivr.net/gh/ltq525/ltq525/metrics/base.svg" />
 
-
-<img src="https://cdn.jsdelivr.net/gh/ltq525/ltq525/metrics/base.svg" />
-
-
-``` 
+```
                                    _ooOoo_
                                   o8888888o
                                   88" . "88
@@ -88,3 +87,9 @@ Here are some ideas to get you started:
                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                            佛祖保佑        永无BUG
 ```
+
+</div>
+
+
+
+
