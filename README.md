@@ -66,19 +66,3 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/ltq525/ltq525/metrics/base.svg" />
 
 
-<script src="https://giscus.app/client.js"
-        data-repo="ltq525/ltq525"
-        data-repo-id="R_kgDOO1KBSw"
-        data-category="General"
-        data-category-id="DIC_kwDOO1KBS84Crkjg"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
-
