@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center" >
   <img src="https://count.getloli.com/@ltq525?name=ltq525&theme=rule34">
-  <!-- 访问计数器：替换 getloli -->
- <img src="https://komarev.com/ghpvc/?username=ltq525&label=Profile%20views&color=0e75b6&style=flat" />
+
 
 <!-- 奖杯：临时注释掉，或自部署 github-profile-trophy -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=ltq525&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /> -->
